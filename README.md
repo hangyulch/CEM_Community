@@ -76,6 +76,14 @@
 - To be added.
 #### Han-Gyul Choi
 - 2023/10/31: Conduct a survey to collect user needs: <a href="https://docs.google.com/forms/d/1GR1TKiiJjvH85kxkTO_HOnUt6hKx6fm_2CuDDYCK8dY">Survey link</a>
+- 2023/10/31: Essential features and features to consider: <a href="https://support.daouoffice.com:8443/cloud_help#communities"> web site link</a>
+- 2023/10/31: Coummnity demo: <a href="https://kanari1569.tistory.com/35"> 1</a>
+<a href="https://kanari1569.tistory.com/36"> 2</a>
+<a href="https://kanari1569.tistory.com/37"> 3</a>
+<a href="https://kanari1569.tistory.com/38"> 4</a>
+<a href="https://kanari1569.tistory.com/39"> 5</a>
+<a href="https://kanari1569.tistory.com/40"> 6</a>
+
 
 |Idx|Question|
 |:--:|:--:|
